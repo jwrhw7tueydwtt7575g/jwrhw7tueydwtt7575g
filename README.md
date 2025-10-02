@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vivek Chaudhari</h1>
 <h3 align="center">Passionate AI/ML and Cloud Enthusiast with a strong drive to innovate and build impactful solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwrhw7tueydwtt7575g&label=Profile%20views&color=0e75b6&style=flat" alt="jwrhw7tueydwtt7575g" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwrhw7tueydwtt7575g" alt="jwrhw7tueydwtt7575g" /></a> </p>
+
+- 🌱 I’m currently learning **Go-Fiber,Go-Lang**
+
+- 📫 How to reach me **vivekchaudhari3718@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -10,3 +18,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Vivek Chaudhari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vivek Chaudhari" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwrhw7tueydwtt7575g&show_icons=true&locale=en&layout=compact" alt="jwrhw7tueydwtt7575g" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwrhw7tueydwtt7575g&" alt="jwrhw7tueydwtt7575g" /></p>
