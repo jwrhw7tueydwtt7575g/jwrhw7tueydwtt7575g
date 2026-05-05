@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwrhw7tueydwtt7575g" alt="jwrhw7tueydwtt7575g" /></a> </p>
 
-- 🌱 I’m currently learning **Go-Fiber,Go-Lang,Ray Architecture(ML),Payment Gateway System**
+- 🌱 I’m currently learning **Go-Fiber,Go-Lang,Ray Architecture(ML),@BuildingLynx Using Claude Code**
 
 - 📫 How to reach me **vivekchaudhari3718@gmail.com**
 
