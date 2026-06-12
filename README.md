@@ -1,23 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vivek%20Mohan%20Chaudhari&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Research&descSize=18&descAlignY=58&descColor=8b949e" />
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=250&section=header&text=Vivek%20Mohan%20Chaudhari&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Research&descSize=20&descAlignY=60&descColor=a0aec0&stroke=58a6ff&strokeWidth=2" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLMs+from+scratch+%F0%9F%A7%A0;AWS+Certified+ML+Engineer+%E2%98%81%EF%B8%8F;MLOps+%7C+GenAI+%7C+Multimodal+AI+%F0%9F%A4%96;Passionate+about+AI+for+Healthcare+%F0%9F%A9%BA;Published+on+HuggingFace+%F0%9F%A4%97)](https://git.io/typing-svg)
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@vivekchaudhari181)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekchaudhari3718@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Vchaudhari17)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@VivekChaudhari)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/VivekChaudhari)
+<!-- ANIMATED TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🧠+Building+LLMs+from+scratch;☁️+AWS+Certified+ML+Engineer+Associate;🤖+MLOps+%7C+GenAI+%7C+Multimodal+AI;🩺+Passionate+about+AI+for+Healthcare;🤗+Published+on+HuggingFace;🔬+5+Novel+LLM+Research+Innovations;⚡+From+raw+data+→+executive+intelligence" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![AWS ML Badge](https://img.shields.io/badge/AWS%20Certified-ML%20Engineer%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![VIT Pune](https://img.shields.io/badge/VIT%20Pune-B.Tech%20IT%20%7C%20CGPA%208.7-blue?style=flat-square&logo=graduation-cap&logoColor=white)
-![JEE](https://img.shields.io/badge/JEE%20Mains-96.20%25ile-green?style=flat-square)
-![MHT CET](https://img.shields.io/badge/MHT%20CET-97.17%25ile-green?style=flat-square)
+<!-- VISITOR COUNTER WITH ANIMATION -->
+<img src="https://komarev.com/ghpvc/?username=jwrhw7tueydwtt7575g&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/jwrhw7tueydwtt7575g?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/jwrhw7tueydwtt7575g)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/jwrhw7tueydwtt7575g?label=Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117)](https://github.com/jwrhw7tueydwtt7575g)
+
+<br/>
+
+<!-- SOCIAL LINKS -->
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vivekchaudhari181)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekchaudhari3718@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Vchaudhari17)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@VivekChaudhari)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/VivekChaudhari)
+
+<br/>
+
+<!-- ACHIEVEMENT BADGES -->
+![AWS ML](https://img.shields.io/badge/🏅_AWS_Certified-ML_Engineer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![VIT Pune](https://img.shields.io/badge/🎓_VIT_Pune-B.Tech_IT_|_CGPA_8.7-4285F4?style=flat-square)
+![JEE](https://img.shields.io/badge/📐_JEE_Mains-96.20%25ile-22c55e?style=flat-square)
+![MHT CET](https://img.shields.io/badge/📊_MHT_CET-97.17%25ile-22c55e?style=flat-square)
+
+</div>
+
+---
+
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ABOUT ME SECTION WITH ANIMATED WAVE -->
+<img align="right" alt="AI Brain GIF" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5dWF2NzV5dWlhMnYwb3VuYWZzZ3h6YnI3d3ZubmJwcnh5NTM5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+```python
+class VivekChaudhari:
+    def __init__(self):
+        self.name       = "Vivek Mohan Chaudhari"
+        self.location   = "Pune, Maharashtra 🇮🇳"
+        self.education  = "B.Tech IT @ VIT Pune | CGPA 8.7"
+        self.role       = "AI / ML Engineer & Researcher"
+        self.passion    = ["LLM Systems", "MLOps", "Healthcare AI"]
+        self.huggingface = "Vchaudhari17"
+
+    def current_focus(self):
+        return [
+            "🧠 Building LLMs from scratch w/ novel architectures",
+            "☁️  AWS Certified ML Engineer",
+            "🔬 Researching MoE routing & efficient embeddings",
+            "🩺 AI applications in Healthcare",
+            "🚀 Production-grade MLOps pipelines",
+        ]
+
+    def fun_fact(self):
+        return "I reduced LLM memory by ~93% with FED-Dk embeddings 🚀"
+```
+
+<br clear="right"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Tech Stack & Skills
+
+<!-- SKILL ICONS - AI/ML -->
+<div align="center">
+
+### 🤖 AI · ML · Deep Learning
+
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,sklearn&theme=dark&perline=8" /></a>
+
+<!-- Extra ML badges -->
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-7B3FE4?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/⚡_Groq-F55036?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray_Tune-028CF0?style=flat-square&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
+
+### ☁️ Cloud · DevOps · MLOps
+
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,terraform&theme=dark&perline=8" /></a>
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 🗄️ Backend · Databases
+
+<a href="#"><img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,mongodb,mysql,postgres&theme=dark&perline=8" /></a>
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🖥️ Frontend · Other Languages
+
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,go,cpp,grafana&theme=dark&perline=8" /></a>
 
 </div>
 
@@ -25,104 +128,158 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Projects & Innovations
+## 🚀 Featured Projects & Innovations
 
+<!-- PROJECT CARDS -->
 <div align="center">
 
-| 🔥 Project | ⚡ What it does | 🛠 Stack |
-|:---|:---|:---|
-| 🔐 **[Agent Execution Ledger](https://github.com/jwrhw7tueydwtt7575g)** | Cryptographic observer layer for multi-agent LLM pipelines — detects silent failures, semantic drift & causal blame attribution | FastAPI · MongoDB · React · Docker |
-| 🌌 **[Aether Flow](https://github.com/jwrhw7tueydwtt7575g)** | 11-stage autonomous pipeline: raw data → executive intelligence via GPT-4o dynamic execution planning | Azure Synapse · GPT-4o · Spark · Next.js |
-| 🧠 **[LatentRoute](https://huggingface.co/Vchaudhari17/LatentRoute)** | From-scratch LLM with 5 novel research innovations: AMT tokenizer, FED-Dk embeddings (~93% memory reduction), MoE routing, MLA attention — published on HuggingFace | PyTorch · Ray Tune · HuggingFace |
-| ⚡ **[Zomato MLOps Pipeline](https://github.com/jwrhw7tueydwtt7575g)** | Production streaming pipeline: Kafka → S3 Parquet → XGBoost → MLflow, fully deployed on AWS EC2 with systemd services | Kafka · MLflow · XGBoost · AWS EC2 |
-| 🩺 **[AI Doctor Assistant](https://github.com/jwrhw7tueydwtt7575g)** | Voice + vision multimodal app: Whisper STT + LLaMA reasoning + gTTS for doctor-style audio diagnosis | Groq · LLaMA · Gradio · gTTS |
-| 🛡️ **[Cortex](https://github.com/jwrhw7tueydwtt7575g)** | ML anomaly detection on 500+ K8s logs/min using Isolation Forest + LLM-generated Ansible auto-remediation with full MongoDB audit trail | Isolation Forest · Groq · Ansible · Prometheus |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Agent Execution Ledger
+> **Cryptographic Observer for Multi-Agent LLM Pipelines**
+
+- 🕵️ Detects **silent failures** & **semantic drift**
+- 🧩 Causal blame attribution across agent chains
+- 📊 Real-time pipeline telemetry dashboard
+
+**Stack:** `FastAPI` · `MongoDB` · `React` · `Docker`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwrhw7tueydwtt7575g)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 Aether Flow
+> **11-Stage Autonomous Intelligence Pipeline**
+
+- 🤖 Raw data → executive intelligence via **GPT-4o**
+- ⚡ Dynamic execution planning with adaptive routing
+- 📡 Real-time streaming with Spark processing
+
+**Stack:** `Azure Synapse` · `GPT-4o` · `Spark` · `Next.js`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwrhw7tueydwtt7575g)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 LatentRoute *(HuggingFace Published)*
+> **From-Scratch LLM with 5 Novel Research Innovations**
+
+- 🔤 **AMT Tokenizer** – adaptive morpheme tokenization
+- 💾 **FED-Dk Embeddings** – ~93% memory reduction
+- 🔀 **MoE Routing** – mixture-of-experts architecture
+- 👁️ **MLA Attention** – multi-latent attention heads
+
+**Stack:** `PyTorch` · `Ray Tune` · `HuggingFace`
+
+[![HuggingFace](https://img.shields.io/badge/🤗_View_Model-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Vchaudhari17/LatentRoute)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Zomato MLOps Pipeline
+> **Production-Grade Streaming ML System**
+
+- 📡 **Kafka → S3 Parquet → XGBoost → MLflow**
+- 🖥️ Fully deployed on **AWS EC2** w/ systemd
+- 📈 Real-time prediction serving & monitoring
+
+**Stack:** `Kafka` · `MLflow` · `XGBoost` · `AWS EC2`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwrhw7tueydwtt7575g)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 AI Doctor Assistant
+> **Voice + Vision Multimodal Medical AI**
+
+- 🎙️ **Whisper STT** for voice input
+- 🦙 **LLaMA** for clinical reasoning
+- 🔊 **gTTS** for doctor-style audio diagnosis
+
+**Stack:** `Groq` · `LLaMA` · `Gradio` · `gTTS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwrhw7tueydwtt7575g)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cortex
+> **ML-Powered K8s Anomaly Detection & Auto-Remediation**
+
+- 📊 Isolation Forest on **500+ K8s logs/min**
+- 🤖 LLM-generated **Ansible auto-remediation**
+- 🗃️ Full MongoDB audit trail
+
+**Stack:** `Isolation Forest` · `Groq` · `Ansible` · `Prometheus`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwrhw7tueydwtt7575g)
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧰 Tech Stack
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**AI / ML**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,python,sklearn&theme=dark)](https://skillicons.dev)
-
-**Cloud & DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,terraform&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
-
-**Frontend & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,go,cpp,grafana&theme=dark)](https://skillicons.dev)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jwrhw7tueydwtt7575g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=a0aec0&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwrhw7tueydwtt7575g&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=a0aec0" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<img width="70%" src="https://streak-stats.demolab.com/?user=jwrhw7tueydwtt7575g&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&currStreakNum=ffffff&sideNums=ffffff&dates=a0aec0" />
 
 </div>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jwrhw7tueydwtt7575g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📈 Activity & Contributions
 
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwrhw7tueydwtt7575g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwrhw7tueydwtt7575g&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jwrhw7tueydwtt7575g&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=1f3e6f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<!-- METRICS (lowlighter/metrics style summary) -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jwrhw7tueydwtt7575g&theme=tokyonight&hide_border=true&background=0d1117" />
+<!-- 3D CONTRIBUTION CALENDAR - GitHub Action needed, see setup instructions below -->
+<!-- Once you set up the action, uncomment the line below: -->
+<!-- <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"> -->
 
 </div>
 
-<div align="center">
-
-[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jwrhw7tueydwtt7575g&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jwrhw7tueydwtt7575g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -133,17 +290,138 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jwrhw7tueydwtt7575g/jwrhw7tueydwtt7575g/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jwrhw7tueydwtt7575g/jwrhw7tueydwtt7575g/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jwrhw7tueydwtt7575g/jwrhw7tueydwtt7575g/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jwrhw7tueydwtt7575g/jwrhw7tueydwtt7575g/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Research Highlights
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=jwrhw7tueydwtt7575g&icon=6&color=6)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+| Innovation | Description | Impact |
+|:---:|:---|:---:|
+| 🔤 **AMT Tokenizer** | Adaptive Morpheme Tokenization for LLMs | Novel Architecture |
+| 💾 **FED-Dk Embeddings** | Frequency-Encoded Dimensional Kernels | ~93% Memory ↓ |
+| 🔀 **MoE Routing** | Mixture-of-Experts dynamic path selection | Efficiency ↑ |
+| 👁️ **MLA Attention** | Multi-Latent Attention mechanism | Performance ↑ |
+| 📊 **Causal Blame** | Attribution framework for multi-agent pipelines | Safety ↑ |
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Certifications & Academics
+
+<div align="center">
+
+| 🏅 Credential | 🏢 Issuer | 📅 Status |
+|:---|:---|:---:|
+| AWS Certified ML Engineer – Associate | Amazon Web Services | ✅ Active |
+| B.Tech – Information Technology, CGPA 8.7 | VIT Pune | 🎓 Pursuing |
+| JEE Mains – 96.20 Percentile | NTA | ✅ |
+| MHT CET – 97.17 Percentile | MHT CET Authority | ✅ |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://youtube.com/@vivekchaudhari181">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:vivekchaudhari3718@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+</a>
+&nbsp;
+<a href="https://huggingface.co/Vchaudhari17">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" height="40"/>
+</a>
+&nbsp;
+<a href="https://mastodon.social/@VivekChaudhari">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" height="40"/>
+</a>
+&nbsp;
+<a href="https://buymeacoffee.com/VivekChaudhari">
+  <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED QUOTE -->
+> *"The best way to predict the future is to build it — one model at a time."*
+>
+> — **Vivek Mohan Chaudhari**
+
+<br/>
+
+<!-- PROFILE VIEWS & VISITOR WAVE -->
+<img src="https://visitcount.itsvg.in/api?id=jwrhw7tueydwtt7575g&label=Profile+Visits&color=6&icon=6&pretty=true" />
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!-- ⚙️  GITHUB ACTIONS SETUP GUIDE (do not delete this section) -->
+<!--                                                              -->
+<!--  📌 To enable the Snake Animation:                          -->
+<!--  Create .github/workflows/snake.yml with:                   -->
+<!--                                                              -->
+<!--  name: Generate Snake                                        -->
+<!--  on:                                                         -->
+<!--    schedule: [{cron: "0 */12 * * *"}]                       -->
+<!--    workflow_dispatch:                                         -->
+<!--  jobs:                                                       -->
+<!--    build:                                                     -->
+<!--      runs-on: ubuntu-latest                                  -->
+<!--      steps:                                                   -->
+<!--        - uses: Platane/snk@v3                                -->
+<!--          with:                                               -->
+<!--            github_user_name: jwrhw7tueydwtt7575g             -->
+<!--            outputs: |                                        -->
+<!--              dist/github-snake.svg                           -->
+<!--              dist/github-snake-dark.svg?palette=github-dark  -->
+<!--        - uses: crazy-max/ghaction-github-pages@v3            -->
+<!--          with:                                               -->
+<!--            target_branch: output                             -->
+<!--            build_dir: dist                                   -->
+<!--          env:                                                -->
+<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         -->
+<!--                                                              -->
+<!--  📌 To enable 3D Contribution Graph:                        -->
+<!--  Create .github/workflows/3d-graph.yml with:                -->
+<!--                                                              -->
+<!--  name: GitHub-Profile-3D-Contrib                            -->
+<!--  on:                                                         -->
+<!--    schedule: [{cron: "0 18 * * *"}]                         -->
+<!--    workflow_dispatch:                                         -->
+<!--  jobs:                                                       -->
+<!--    build:                                                     -->
+<!--      runs-on: ubuntu-latest                                  -->
+<!--      steps:                                                   -->
+<!--        - uses: actions/checkout@v3                           -->
+<!--        - uses: yoshi389111/github-profile-3d-contrib@0.7.1  -->
+<!--          env:                                                -->
+<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         -->
+<!--            USERNAME: jwrhw7tueydwtt7575g                     -->
+<!--        - uses: stefanzweifel/git-auto-commit-action@v4       -->
+<!--          with:                                               -->
+<!--            commit_message: "3D graph update"                 -->
+<!--                                                              -->
+<!-- ============================================================ -->
+
+<!-- ANIMATED FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0d1117&height=130&section=footer&animation=twinkling" />
