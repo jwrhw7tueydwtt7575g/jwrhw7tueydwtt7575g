@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vivek%20Mohan%20Chaudhari&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Research&descSize=18&descAlignY=58&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vivek%20Mohan%20Chaudhari&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Published%20OSS%20Library%20Author&descSize=18&descAlignY=58&descColor=8b949e" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLMs+from+scratch+%F0%9F%A7%A0;AWS+Certified+ML+Engineer+%E2%98%81%EF%B8%8F;MLOps+%7C+GenAI+%7C+Multimodal+AI+%F0%9F%A4%96;Passionate+about+AI+for+Healthcare+%F0%9F%A9%BA;Published+on+HuggingFace+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLMs+from+scratch+%F0%9F%A7%A0;AWS+Certified+ML+Engineer+%E2%98%81%EF%B8%8F;MLOps+%7C+GenAI+%7C+Multimodal+AI+%F0%9F%A4%96;Published+micrograd-cpp-engine+on+PyPI+%F0%9F%9A%80;Passionate+about+AI+for+Healthcare+%F0%9F%A9%BA;Published+on+HuggingFace+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,6 +15,7 @@
 <br/>
 
 ![AWS ML Badge](https://img.shields.io/badge/AWS%20Certified-ML%20Engineer%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-micrograd--cpp--engine-blue?style=flat-square&logo=pypi&logoColor=white)
 ![VIT Pune](https://img.shields.io/badge/VIT%20Pune-B.Tech%20IT%20%7C%20CGPA%208.7-blue?style=flat-square&logo=graduation-cap&logoColor=white)
 ![JEE](https://img.shields.io/badge/JEE%20Mains-96.20%25ile-green?style=flat-square)
 ![MHT CET](https://img.shields.io/badge/MHT%20CET-97.17%25ile-green?style=flat-square)
@@ -31,10 +32,10 @@
 
 | 🔥 Project | ⚡ What it does | 🛠 Stack |
 |:---|:---|:---|
+| 📦 **[MicroGrad](https://github.com/jwrhw7tueydwtt7575g/MicroGrad)** [![PyPI](https://img.shields.io/badge/PyPI-0.1.1-blue?style=flat-square&logo=pypi)](https://pypi.org/project/micrograd-cpp-engine/) | Production-grade autograd + deep-learning library — C++17 core, pybind11 bindings, grad/vmap/jit transforms, custom ops via `@op_def`. Ships on PyPI. | C++17 · pybind11 · Python · CMake |
 | 🔐 **[Agent Execution Ledger](https://github.com/jwrhw7tueydwtt7575g)** | Cryptographic observer layer for multi-agent LLM pipelines — detects silent failures, semantic drift & causal blame attribution | FastAPI · MongoDB · React · Docker |
 | 🌌 **[Aether Flow](https://github.com/jwrhw7tueydwtt7575g)** | 11-stage autonomous pipeline: raw data → executive intelligence via GPT-4o dynamic execution planning | Azure Synapse · GPT-4o · Spark · Next.js |
 | 🧠 **[LatentRoute](https://huggingface.co/Vchaudhari17/LatentRoute)** | From-scratch LLM with 5 novel research innovations: AMT tokenizer, FED-Dk embeddings (~93% memory reduction), MoE routing, MLA attention — published on HuggingFace | PyTorch · Ray Tune · HuggingFace |
-| ⚡ **[Zomato MLOps Pipeline](https://github.com/jwrhw7tueydwtt7575g)** | Production streaming pipeline: Kafka → S3 Parquet → XGBoost → MLflow, fully deployed on AWS EC2 with systemd services | Kafka · MLflow · XGBoost · AWS EC2 |
 | 🩺 **[AI Doctor Assistant](https://github.com/jwrhw7tueydwtt7575g)** | Voice + vision multimodal app: Whisper STT + LLaMA reasoning + gTTS for doctor-style audio diagnosis | Groq · LLaMA · Gradio · gTTS |
 | 🛡️ **[Cortex](https://github.com/jwrhw7tueydwtt7575g)** | ML anomaly detection on 500+ K8s logs/min using Isolation Forest + LLM-generated Ansible auto-remediation with full MongoDB audit trail | Isolation Forest · Groq · Ansible · Prometheus |
 
