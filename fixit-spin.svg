@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="150" height="180">
+  <defs>
+    <linearGradient id="fixitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Static outer glow ring -->
+  <circle cx="100" cy="90" r="88" fill="none" stroke="url(#fixitGrad)" stroke-width="3" opacity="0.3"/>
+
+  <!-- Spinning badge -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 100 90"
+      to="360 100 90"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+
+    <circle cx="100" cy="90" r="72" fill="url(#fixitGrad)"/>
+
+    <!-- Wrench icon, centered in badge -->
+    <g transform="translate(60 50) scale(2.15)">
+      <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"
+            fill="none" stroke="#0d1117" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- Static FixIt wordmark -->
+  <text x="100" y="210" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-weight="700" font-size="30" fill="#2dd4bf">FixIt</text>
+  <text x="100" y="228" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#8b949e">Founder</text>
+</svg>
