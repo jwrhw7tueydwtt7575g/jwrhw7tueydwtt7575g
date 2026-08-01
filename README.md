@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vivek%20Mohan%20Chaudhari&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Published%20OSS%20Library%20Author&descSize=18&descAlignY=58&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vivek%20Mohan%20Chaudhari&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Founder%20%40%20FixIt&descSize=18&descAlignY=58&descColor=8b949e" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLMs+from+scratch+%F0%9F%A7%A0;AWS+Certified+ML+Engineer+%E2%98%81%EF%B8%8F;MLOps+%7C+GenAI+%7C+Multimodal+AI+%F0%9F%A4%96;Published+micrograd-cpp-engine+on+PyPI+%F0%9F%9A%80;Passionate+about+AI+for+Healthcare+%F0%9F%A9%BA;Published+on+HuggingFace+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLMs+from+scratch+%F0%9F%A7%A0;Founder+%40+FixIt+%F0%9F%94%A7%F0%9F%9A%80;AWS+Certified+ML+Engineer+%E2%98%81%EF%B8%8F;MLOps+%7C+GenAI+%7C+Multimodal+AI+%F0%9F%A4%96;Published+micrograd-cpp-engine+on+PyPI+%F0%9F%9A%80;Passionate+about+AI+for+Healthcare+%F0%9F%A9%BA;Published+on+HuggingFace+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,6 +16,7 @@
 
 ![AWS ML Badge](https://img.shields.io/badge/AWS%20Certified-ML%20Engineer%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-micrograd--cpp--engine-blue?style=flat-square&logo=pypi&logoColor=white)
+![FixIt](https://img.shields.io/badge/Founder-FixIt%20%F0%9F%94%A7-14b8a6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMiA5VjdoLTJWNWEyIDIgMCAwIDAtMi0ySDZhMiAyIDAgMCAwLTIgMnYyaC0ydjJoMlY5aDIwek0yIDExdjJoMjB2LTJIMnptMCA0djJhMiAyIDAgMCAwIDIgMmgxNmEyIDIgMCAwIDAgMi0ydi0ySDJ6Ii8+PC9zdmc+)
 ![VIT Pune](https://img.shields.io/badge/VIT%20Pune-B.Tech%20IT%20%7C%20CGPA%208.7-blue?style=flat-square&logo=graduation-cap&logoColor=white)
 ![JEE](https://img.shields.io/badge/JEE%20Mains-96.20%25ile-green?style=flat-square)
 ![MHT CET](https://img.shields.io/badge/MHT%20CET-97.17%25ile-green?style=flat-square)
@@ -23,6 +24,32 @@
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏗️ Founder Spotlight
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=14B8A6&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%94%A7+Founder+%40+FixIt;%E2%9A%A1+Building+the+future%2C+one+fix+at+a+time" alt="FixIt Founder"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,15,18&height=100&section=header&text=FixIt&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="400"/>
+
+<br/>
+
+**The right help for you. Right now.** 🚀
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -38,6 +65,7 @@
 | 🧠 **[LatentRoute](https://huggingface.co/Vchaudhari17/LatentRoute)** | From-scratch LLM with 5 novel research innovations: AMT tokenizer, FED-Dk embeddings (~93% memory reduction), MoE routing, MLA attention — published on HuggingFace | PyTorch · Ray Tune · HuggingFace |
 | 🩺 **[AI Doctor Assistant](https://github.com/jwrhw7tueydwtt7575g)** | Voice + vision multimodal app: Whisper STT + LLaMA reasoning + gTTS for doctor-style audio diagnosis | Groq · LLaMA · Gradio · gTTS |
 | 🛡️ **[Cortex](https://github.com/jwrhw7tueydwtt7575g)** | ML anomaly detection on 500+ K8s logs/min using Isolation Forest + LLM-generated Ansible auto-remediation with full MongoDB audit trail | Isolation Forest · Groq · Ansible · Prometheus |
+| 🔧 **[FixIt](https://github.com/jwrhw7tueydwtt7575g)** — *Founder* | On-demand local services platform — connecting people with the right help, right now | React · Node.js · MongoDB |
 
 </div>
 
