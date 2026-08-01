@@ -34,7 +34,7 @@
 <tr>
 <td align="center" width="100%">
 
-<img src="https://raw.githubusercontent.com/jwrhw7tueydwtt7575g/jwrhw7tueydwtt7575g/main/fixit-spin.svg" alt="FixIt Founder spinning logo" width="150"/>
+<img src="fixit-spin.svg" alt="FixIt Founder spinning logo" width="150"/>
 
 <br/>
 
