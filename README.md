@@ -34,10 +34,6 @@
 <tr>
 <td align="center" width="100%">
 
-<img src="fixit-spin.svg" alt="FixIt Founder spinning logo" width="150"/>
-
-<br/>
-
 **The right help for you. Right now.** 🚀
 
 </td>
